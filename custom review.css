@@ -1,0 +1,37 @@
+html,
+body {
+  height: 100%;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+.products-name {
+  margin-top: 100px;
+}
+
+.products-img img{
+  width: 400px;
+  height: 400px;
+}
+.form-check {
+  float: left;
+  margin-right: 10px;
+  margin-top: 100px;
+}
+
+.review {
+  margin-top: 100px;
+}
+
+.form-floating {
+  width: 1400px;
+  
+}
+
+.btn {
+  width: 250px;
+  margin-top: 10px;
+  
+}
